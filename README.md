@@ -14,4 +14,4 @@
 * AI
 * LowPolygon模型
 * 搭建的唯美卡通场景
-![](https://raw.githubusercontent.com/ColorGalaxy/GGJ2020-UE4-SLUOS-KRAD/master/Screenshot/Level1-1.png)
+![Level1](https://github.com/ColorGalaxy/GGJ2020-UE4-SLUOS-KRAD/raw/master/Screenshot/Level1-1.png)
