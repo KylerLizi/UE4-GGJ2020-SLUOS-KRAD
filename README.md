@@ -1,4 +1,4 @@
-# GGJ2020-UE4-SLUOS-KRAD
+# GGJ2020-UE4-SLUOS-KRAD 2020.01.31-2020.02.02
 ### GGJ 2020的主题是`Repair`
 我是团队队长研一在读栗子，负责程序、搭建整体逻辑并对所有同伴制作的资源在UE4中进行整合<br>
 [————————————————GGJ官方展示作品地址———————————————](https://globalgamejam.org/2020/games/sluos-krad-2)<br>
